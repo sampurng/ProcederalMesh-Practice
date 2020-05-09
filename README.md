@@ -1,9 +1,9 @@
 # ProcederalMesh-Practice
 Brackeys toutorial for mesh generation
 
-JUst doing random stuff
+Just doing random stuff
 Map generation 
 
 Will implement terrain for future projects...
 
-HAven't added libraries folder to this git repo
+Haven't added libraries folder to this git repo
